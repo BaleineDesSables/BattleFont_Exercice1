@@ -1,0 +1,73 @@
+.facade{
+  font-family: 'FacadeGX';/*on réutilise le nom choisi au sein du fichier font_liste.css*/
+}
+
+.ouvrieres{
+  font-family: 'OuvrièresGX';
+}
+
+.fungal{
+  font-family: 'FungalGX';
+  font-variation-settings: "grow"550,"THCK" 300;
+}
+
+.movement{
+  font-family: 'MovementV';
+  font-variation-settings: "wght" 600, "SPAC" 120;
+}
+  
+.recursive{
+  font-family: 'recursive';
+}
+
+.bricolage{
+  font-family: 'BricolageGrotesque';
+}
+
+.handjet{
+  font-family: 'handjet';
+}
+
+.sixtyhour{
+  font-family: 'sixtyhour';
+}
+
+.tiny{
+  font-family: 'tiny';
+}
+ 
+
+.mixal{
+  font-family: 'mixal';
+}
+  
+h1{
+  font-size: 150px;
+}
+
+
+#First{
+  position: relative;
+  margin-top: 200px;
+  color: rgb(253, 37, 37);
+  transform: rotate(-10deg);
+}
+
+#Second{
+  position: relative;
+  color: rgb(33, 15, 149);
+  margin-top: -100px;
+  mix-blend-mode: multiply;
+  z-index: -1;
+}
+
+#Third{
+  position: relative;
+  color: rgb(175, 0, 143);
+  opacity: 0.5;
+  transform: rotate(-50deg);
+  mix-blend-mode: luminosity;
+  flex-flow: column-reverse;
+  direction: rtl;
+  z-index: -2;
+}
