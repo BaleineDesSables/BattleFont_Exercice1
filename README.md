@@ -1,4 +1,4 @@
 # variable_font_exercice1
 
 url de mon site :
-https://baleinedessables.github.io/BattleFont_Exercice1/
+https://clarajacquemoud-prof.github.io/battle_font_exercice1/
